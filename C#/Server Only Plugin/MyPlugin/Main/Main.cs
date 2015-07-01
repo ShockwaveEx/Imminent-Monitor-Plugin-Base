@@ -19,6 +19,7 @@ namespace MyPlugin.Main
             //Set global instances to instance passed through constructor, this is 100% needed otherwise your plugin will not operate
             IServerGUI = _IServerGUI;
             IServerNetworkActions = _IServerNetworkActions;
+            InitializeGUI();
         }
 
         private void InitializeGUI()
