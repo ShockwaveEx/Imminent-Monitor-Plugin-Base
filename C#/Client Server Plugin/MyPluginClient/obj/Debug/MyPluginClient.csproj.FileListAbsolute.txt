@@ -1,0 +1,5 @@
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPluginClient\bin\Debug\MyPluginClient.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPluginClient\bin\Debug\MyPluginClient.pdb
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPluginClient\bin\Debug\ClientPlugin.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPluginClient\obj\Debug\MyPluginClient.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPluginClient\obj\Debug\MyPluginClient.pdb

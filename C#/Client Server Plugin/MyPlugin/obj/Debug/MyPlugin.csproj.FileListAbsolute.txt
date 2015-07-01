@@ -1,0 +1,7 @@
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.Forms.FormMessage.resources
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.csproj.GenerateResource.Cache
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\Shockwave\Documents\GitHub\Imminent-Monitor-Plugin-Base\C#\Client Server Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.pdb
