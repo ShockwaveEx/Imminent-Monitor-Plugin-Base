@@ -1,0 +1,24 @@
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.xml
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.dll
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.pdb
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.vbprojResolveAssemblyReference.cache
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.Resources.resources
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.UserControlSkeleton.resources
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.vbproj.GenerateResource.Cache
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.xml
+C:\Users\Shockwave\Desktop\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.pdb
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\MyPlugin.xml
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.dll
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.pdb
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.vbprojResolveAssemblyReference.cache
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.Resources.resources
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.UserControlSkeleton.resources
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.vbproj.GenerateResource.Cache
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.xml
+C:\Users\Shockwave\Desktop\New folder (3)\Plugin Pack\Skeleton Plugin Projects\Server Only Plugin\MyPlugin\MyPlugin\obj\Debug\MyPlugin.pdb

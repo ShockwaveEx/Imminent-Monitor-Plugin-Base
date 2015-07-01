@@ -1,0 +1,11 @@
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\bin\Debug\MyPlugin.xml
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.dll
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\bin\Debug\ServerPlugin.pdb
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.FormMessage.resources
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.Resources.resources
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.vbproj.GenerateResource.Cache
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.xml
+C:\Users\Shockwave\Documents\Visual Studio 2013\TestProjects\MyPlugin\MyPlugin\obj\Debug\MyPlugin.pdb
