@@ -1,0 +1,8 @@
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\bin\Debug\MyPlugin.dll
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\bin\Debug\MyPlugin.pdb
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\bin\Debug\ServerPlugin.dll
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\obj\Debug\MyPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\obj\Debug\MyPlugin.UserControls.UserControlSkeleton.resources
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\obj\Debug\MyPlugin.csproj.GenerateResource.Cache
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\obj\Debug\MyPlugin.dll
+C:\Users\Shockwave\AppData\Local\Temporary Projects\MyPlugin\obj\Debug\MyPlugin.pdb

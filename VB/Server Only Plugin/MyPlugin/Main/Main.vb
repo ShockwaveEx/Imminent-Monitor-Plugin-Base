@@ -4,7 +4,7 @@ Imports Imminent.IServerVars
 Public Class Main
     Implements IServerMain 'This is 100% needed for all plugins to operate
 
-#Region " Global Variables "
+#Region " Variables "
     Public IServerGUI As IServerGUI
     Public IServerNetworkActions As IServerNetworkActions
 #End Region
@@ -37,7 +37,7 @@ Public Class Main
     Private Sub InitializeGUI()
         'Where you initalize all of your GUI controls
         AddTabControl()
-        '    AddNormalContextItem()  'Uncomment this if you want just a standalone contextitem
+        'AddNormalContextItem()  'Uncomment this if you want just a standalone contextitem
         AddContextItemWithChildren()
     End Sub
 

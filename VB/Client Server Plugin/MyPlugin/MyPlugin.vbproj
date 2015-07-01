@@ -43,9 +43,6 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ServerPlugin">
-      <HintPath>G:\Files\Imminent Methods\Code\Main Project\Imminent Monitor\ServerPlugin\bin\Debug\ServerPlugin.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
